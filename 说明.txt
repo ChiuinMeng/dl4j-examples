@@ -1,0 +1,8 @@
+该项目clone到本地时间：9:12 2018/11/22
+操作人：Chiuin Meng
+目的：学习Java语言的深度学习，运行示例。
+
+
+安装最新版的java和maven后，mvn clean install 仍然不能build成功。
+但是这是用IntelliJ IDEA Community Edition 2018.2.5是可以build它的子项目dl4
+j-examples的，并且能成功运行demo。
