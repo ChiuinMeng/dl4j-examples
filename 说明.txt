@@ -1,8 +1,11 @@
-¸ÃÏîÄ¿cloneµ½±¾µØÊ±¼ä£º9:12 2018/11/22
-²Ù×÷ÈË£ºChiuin Meng
-Ä¿µÄ£ºÑ§Ï°JavaÓïÑÔµÄÉî¶ÈÑ§Ï°£¬ÔËĞĞÊ¾Àı¡£
+è¯¥é¡¹ç›®cloneåˆ°æœ¬åœ°æ—¶é—´ï¼š9:12 2018/11/22
+æ“ä½œäººï¼šChiuin Meng
+ç›®çš„ï¼šå­¦ä¹ Javaè¯­è¨€çš„æ·±åº¦å­¦ä¹ ï¼Œè¿è¡Œç¤ºä¾‹ã€‚
 
 
-°²×°×îĞÂ°æµÄjavaºÍmavenºó£¬mvn clean install ÈÔÈ»²»ÄÜbuild³É¹¦¡£
-µ«ÊÇÕâÊÇÓÃIntelliJ IDEA Community Edition 2018.2.5ÊÇ¿ÉÒÔbuildËüµÄ×ÓÏîÄ¿dl4
-j-examplesµÄ£¬²¢ÇÒÄÜ³É¹¦ÔËĞĞdemo¡£
+å®‰è£…æœ€æ–°ç‰ˆçš„javaå’Œmavenåï¼Œmvn clean install ä»ç„¶ä¸èƒ½buildæˆåŠŸã€‚
+ä½†æ˜¯è¿™æ˜¯ç”¨IntelliJ IDEA Community Edition 2018.2.5æ˜¯å¯ä»¥buildå®ƒçš„å­é¡¹ç›®dl4
+j-examplesçš„ï¼Œå¹¶ä¸”èƒ½æˆåŠŸè¿è¡Œdemoã€‚
+
+æ–‡ä»¶ä¼ åˆ°GitHubä¹±ç ï¼š
+å¾®è½¯çš„è®°äº‹æœ¬ç¼–ç ä¸æ˜¯utf-8ã€‚
